@@ -22,7 +22,7 @@ Here's a sample ESLint configuration file that activates these rules:
     "no-vue"
   ],
   "rules": {
-    "no-js/no-vue": "error",
+    "no-vue/no-vue": "error",
   }
 }
 ```
