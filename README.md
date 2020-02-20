@@ -1,6 +1,11 @@
 # eslint-plugin-no-vue
 
+[![npm](https://img.shields.io/npm/v/eslint-plugin-no-vue.svg)](https://www.npmjs.com/package/eslint-plugin-no-vue)
+[![npm](https://img.shields.io/npm/dm/eslint-plugin-no-vue.svg)](https://www.npmjs.com/package/eslint-plugin-no-vue)
+
 This is an ESLint plugin to disable Vue.js.
+
+![](demo.png)
 
 ## Installing
 
